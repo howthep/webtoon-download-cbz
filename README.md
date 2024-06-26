@@ -9,3 +9,4 @@ pip install requests beautifulsoup4 Pillow
 ```
 python zipit.py
 ```
+this will download the first hua
